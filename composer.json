@@ -1,0 +1,21 @@
+{
+    "name": "asiadevmedia/api-signature",
+    "description": "signature login wordpress",
+    "version": "1.0.0",
+    "keywords": [
+        "signature",
+        "security login wordpress"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Teguh Priyanto"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Asiadevmedia\\ApiSignature\\": "src/"
+        }
+    }
+}
